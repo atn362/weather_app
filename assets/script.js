@@ -1,3 +1,4 @@
+alert("Find your City!")
 //key and url from API site
 const api = {
 	key: "0db283bdb89e9edc2392d60d1e9f9e73",
